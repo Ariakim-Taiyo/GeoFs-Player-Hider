@@ -8,7 +8,7 @@ A small plugin for GeoFs that hides a player by callsign. Good for getting rid o
 
 **How To Use:** 
 <br>
-Copy the contents of `index.js` into the console and run it. Call the following functions for their purpose:<br>
+Copy the contents of `index(3).js` into the console and run it. Call the following functions for their purpose:<br>
 `hideByAircraft(aircraft)`: Hides all instances of an aircraft. Valid names for aircraft are as follows:<br>
 F-16 = `f16`<br>
 Alphajet = `jet`<br>
